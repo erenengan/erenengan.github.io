@@ -58,7 +58,6 @@ Built an end-to-end fraud detection pipeline on real-world payment transaction d
 ---
 
 ### Women's Education Analysis
-`R` `ARIMAX` `missForest` `ggplot2` `tidyr` `dplyr` `tseries` `forecast`
 
 Investigated the relationship between female educational attainment and national well-being across multiple countries using ARIMAX time series models and panel data analysis. Applied missForest imputation for missing data integrity, conducted Augmented Dickey-Fuller stationarity tests, and built cross-country visualizations with ggplot2. Found a **statistically significant positive effect** of women's education on well-being measures, with regional variation in key drivers and long-term upward trends tied to higher female education participation.
 
