@@ -1,7 +1,7 @@
 
-# Ngan Vu
 
-## Applied Mathematics & Quantitative Economics Student | Data Analyst | Aspiring Data Scientist
+
+### Applied Mathematics & Quantitative Economics Student | Data Analyst | Aspiring Data Scientist
 
 Welcome to my portfolio! I am a student at the University of South Florida pursuing dual Bachelor's degrees in **Mathematics (Computational & Applied)** and **Quantitative Economics & Econometrics**. My interests lie at the intersection of **data science, machine learning, quantitative analysis, and financial modeling**.
 
@@ -9,7 +9,7 @@ This portfolio showcases projects, technical skills, research experience, and pr
 
 ---
 
-## About Me
+### About Me
 
 I am passionate about using data-driven approaches to solve real-world problems. Through academic coursework, research, internships, and independent projects, I have developed experience in:
 
