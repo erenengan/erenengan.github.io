@@ -37,19 +37,6 @@ Winner of the **1st Place KPMG US Case Competition** and **IYMC Bronze Honor**. 
 
 ---
 
-## Skills
-
-**Languages & Libraries**  
-Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy, Plotly, yfinance, skfolio) · R (tidyverse, plotly, dplyr, tidyr) · SQL
-
-**Tools**  
-Tableau · SQL Server · Excel · Docker · Selenium · Beautiful Soup · Jupyter Notebook
-
-**Methods**  
-Machine Learning · Statistical Analysis · Data Visualization · Web Scraping · Neural Networks · Time Series · Monte Carlo Simulation
-
----
-
 ## Projects
 
 ### Customer Churn Analysis
@@ -61,6 +48,38 @@ End-to-end churn analytics pipeline containerized via Docker with SQL ingestion,
 ### Portfolio Optimization
 
 Built a full portfolio optimization pipeline on real-world equities — from Yahoo Finance ingestion to Mean-Variance Optimization benchmarked with Sharpe Ratio, Sortino Ratio, and Maximum Drawdown. Simulated **10,000 randomized allocations** via Monte Carlo to map the Efficient Frontier. Optimized portfolios across target return thresholds of 15%–40%.
+
+---
+
+### Fraud Detection
+
+Built an end-to-end fraud detection pipeline on real-world payment transaction data, tackling class imbalance with SMOTE oversampling and stratified splits. Trained and compared Logistic Regression, Random Forest, XGBoost, and a Voting Ensemble, evaluating each on ROC AUC, PR AUC, F1, and Precision/Recall — metrics chosen specifically for imbalanced fraud datasets. EDA surfaced fraud patterns by transaction category and gender prior to modeling.
+
+---
+
+### Women's Education Analysis
+`R` `ARIMAX` `missForest` `ggplot2` `tidyr` `dplyr` `tseries` `forecast`
+
+Investigated the relationship between female educational attainment and national well-being across multiple countries using ARIMAX time series models and panel data analysis. Applied missForest imputation for missing data integrity, conducted Augmented Dickey-Fuller stationarity tests, and built cross-country visualizations with ggplot2. Found a **statistically significant positive effect** of women's education on well-being measures, with regional variation in key drivers and long-term upward trends tied to higher female education participation.
+
+---
+
+### Hotel Price Analysis — Booking.com
+
+Scraped hotel listings from Booking.com using Selenium, then analyzed how location, customer ratings, and amenities influence pricing in a major city. Built a regression model to predict hotel prices from key features, with EDA and visualizations surfacing the strongest pricing drivers.
+
+---
+
+## Skills
+
+**Languages & Libraries**  
+Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, SciPy, Plotly, yfinance, skfolio, XGBoost, imbalanced-learn) · R (tidyverse, ggplot2, plotly, dplyr, tidyr, missForest, tseries, forecast) · SQL
+
+**Tools**  
+Tableau · SQL Server · Excel · Docker · Selenium · Beautiful Soup · Jupyter Notebook
+
+**Methods**  
+Machine Learning · Statistical Analysis · Data Visualization · Web Scraping · Neural Networks · Time Series · ARIMAX · Monte Carlo Simulation · SMOTE · Panel Data Analysis
 
 ---
 
