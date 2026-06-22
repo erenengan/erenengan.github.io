@@ -9,9 +9,11 @@ Expected Graduation: May 2027 · GPA: 3.94/4.00
 
 ## About
 
-I'm a math and economics student with a focus on quantitative methods, machine learning, and data engineering. I work at the intersection of rigorous statistical thinking and practical data pipelines — turning messy real-world data into insights that actually move things forward.
+As a kid, I used to spend hours working through number sequences - not because anyone asked me to, but because I genuinely couldn't let go until I found the pattern. That curiosity never left. It just grew up and found a more interesting playground.  
 
-Winner of the **1st Place KPMG US Case Competition** and **IYMC Bronze Honor**. Dean's List. Currently applying stochastic processes and probability theory to trading strategies through the Private Equity & Venture Capital Club at USF.
+I'm an Applied Mathematics and Quantitative Economics student at USF, and the way I see it, data is knowledge. Numbers are never just numbers — they're patterns, signals, stories waiting to be read. In finance and business especially, data can reflect the health of an entire system, reveal subtle anomalies before anyone notices, or quietly confirm that something is off long before it becomes obvious. That's what excites me most: using rigorous quantitative methods to surface the things that aren't immediately visible.  
+
+I'm deeply detail-oriented and take pride in getting things right, not just getting them done. I learn fastest when I'm challenged — I actively seek out feedback and treat every critique as a chance to improve. Staying current matters to me too; I make a habit of continuously updating my skills and keeping up with new tools and methods.
 
 ---
 
