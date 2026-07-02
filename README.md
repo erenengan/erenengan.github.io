@@ -56,6 +56,8 @@ End-to-end churn analytics pipeline containerized via Docker with SQL ingestion,
 
 Built a full portfolio optimization pipeline on real-world equities — from Yahoo Finance ingestion to Mean-Variance Optimization benchmarked with Sharpe Ratio, Sortino Ratio, and Maximum Drawdown. Simulated **10,000 randomized allocations** via Monte Carlo to map the Efficient Frontier. Optimized portfolios across target return thresholds of 15%–40%.
 
+![Risk vs Return](assets/Risk_vs_Return.png), ![Correlation](assets/Correlation.png), ![Efficient Frontier](assets/Efficient_Frontier.png), ![Prediction](assets/Prediction.png), ![Target Prediction](assets/Target_prediction.png) 
+
 ---
 
 ### Fraud Detection
