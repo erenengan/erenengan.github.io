@@ -46,7 +46,7 @@ I'm deeply detail-oriented and take pride in getting things right, not just gett
 End-to-end churn analytics pipeline containerized via Docker with SQL ingestion, cleaning, and feature encoding. Built a multi-model classification system using Logistic Regression, Random Forest, and Neural Networks — achieving **99% ROC-AUC**. Delivered executive dashboards in Tableau covering Brand Health and churn summaries.
 
 ![Market Overview](assets/Market-overview.png)
-![Brand Positioning](assets/Brand Positioning.png), ![Brand Positioning](assets/Brand Positioning-2.png), ![Brand Positioning](assets/Brand Positioning-3.png
+![Brand Positioning](assets/Brand-Positioning.png), ![Brand Positioning](assets/Brand-Positioning-2.png), ![Brand Positioning](assets/Brand-Positioning-3.png)
 
 ---
 
