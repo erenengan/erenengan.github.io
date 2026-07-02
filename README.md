@@ -91,7 +91,7 @@ Machine Learning · Statistical Analysis · Data Visualization · Web Scraping �
 
 Relevant coursework: Machine Learning · Data Science · Applied Statistics · Time Series · Multivariate Statistical Methods
 
-Programs & Recognition: O4U Engineering Attendee · Goldman Sachs Virtual Insight Series · IYMC Bronze Honor · 1st Place KPMG US Case Competition · Dean's List
+Programs & Recognition: O4U Engineering Attendee · Goldman Sachs Virtual Insight Series · IYMC Bronze Honor ·  WorldQuant University Data Science Lab · 1st Place KPMG US Case Competition · Dean's List
 
 ---
 
