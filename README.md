@@ -64,11 +64,17 @@ Built a full portfolio optimization pipeline on real-world equities — from Yah
 
 Built an end-to-end fraud detection pipeline on real-world payment transaction data, tackling class imbalance with SMOTE oversampling and stratified splits. Trained and compared Logistic Regression, Random Forest, XGBoost, and a Voting Ensemble, evaluating each on ROC AUC, PR AUC, F1, and Precision/Recall — metrics chosen specifically for imbalanced fraud datasets. EDA surfaced fraud patterns by transaction category and gender prior to modeling.
 
+![Fraud vs NonFraud](assets/fraud_vs_nonfraud.png),![Logistic Regression](assets/Logistic_regression.png), ![Random Forest](assets/random_forest.png), ![Voting](assets/voting.png), ![XGBoost](assets/xgboost.png), ![Overall](assets/overall.png)
+
 ---
 
 ### Women's Education Analysis
 
 Investigated the relationship between female educational attainment and national well-being across multiple countries using ARIMAX time series models and panel data analysis. Applied missForest imputation for missing data integrity, conducted Augmented Dickey-Fuller stationarity tests, and built cross-country visualizations with ggplot2. Found a **statistically significant positive effect** of women's education on well-being measures, with regional variation in key drivers and long-term upward trends tied to higher female education participation.
+
+![Top 10 vs Bottom 10 Countries comparison between Happiness and Bachelor completion](assets/top_10_vs_bottom_10_happiness.png),![Top 10 vs Bottom 10 Countries comparison between GDP per capita and Bachelor completion](assets/top_10_vs_bottom_10_gdp.png), ![Correlation](assets/correlation.png), ![ACF of Happiness](assets/acf.png), ![PACF of Happiness](assets/pacf.png), ![Model Summary](assets/model_summary.png)
+
+
 
 ---
 
