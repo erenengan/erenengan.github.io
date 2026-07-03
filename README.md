@@ -74,13 +74,13 @@ Investigated the relationship between female educational attainment and national
 
 ![Top 10 vs Bottom 10 Countries comparison between Happiness and Bachelor completion](assets/top_10_vs_bottom_10_happiness.png),![Top 10 vs Bottom 10 Countries comparison between GDP per capita and Bachelor completion](assets/top_10_vs_bottom_10_gdp.png), ![Correlation](assets/correlation.png), ![ACF of Happiness](assets/acf.png), ![PACF of Happiness](assets/pacf.png), ![Model Summary](assets/model_summary.png)
 
-
-
 ---
 
 ### Hotel Price Analysis — Booking.com
 
 Scraped hotel listings from Booking.com using Selenium, then analyzed how location, customer ratings, and amenities influence pricing in a major city. Built a regression model to predict hotel prices from key features, with EDA and visualizations surfacing the strongest pricing drivers.
+
+![Price Distribution](assets/price.png),![Rating Distribution](assets/rating.png), ![Price vs Rating](assets/price_vs_rating.png), ![Correlation](assets/corr.png), ![Price Prediction](assets/price_prediction.png)
 
 ---
 
