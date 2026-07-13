@@ -107,5 +107,3 @@ Relevant coursework: Machine Learning · Data Science · Applied Statistics · T
 Programs & Recognition: O4U Engineering Attendee · Goldman Sachs Virtual Insight Series · IYMC Bronze Honor ·  WorldQuant University Data Science Lab · 1st Place KPMG US Case Competition · Dean's List
 
 ---
-
-*Open to internship and research opportunities in quantitative finance, data science, and ML engineering.*
