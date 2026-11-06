@@ -57,12 +57,12 @@ I'm deeply detail-oriented and take pride in getting things right, not just gett
 
 ### Customer Churn Analysis
 
-End-to-end churn analytics pipeline containerized via Docker with SQL ingestion, cleaning, and feature encoding. Built a multi-model classification system using Logistic Regression, Random Forest, and Neural Networks - achieving **99% ROC-AUC**. Delivered executive dashboards in Tableau covering Brand Health and churn summaries.
+End-to-end churn analytics pipeline containerized via Docker with SQL ingestion, cleaning, and feature encoding. Built and validated a multi-model classification system (Logistic Regression, Random Forest, Neural Networks) using customer-grouped cross-validation and leakage controls, reaching **0.82 ROC-AUC**. Delivered executive dashboards in Tableau covering Brand Health and churn summaries.
 
 ![Market Overview](assets/Market-overview.png)
 ![Brand Positioning](assets/Brand-Positioning.png), ![Brand Positioning](assets/Brand-Positioning-2.png), ![Brand Positioning](assets/Brand-Positioning-3.png)
 ![Customer Segmentation](assets/Customer-Segmentation-2.png), ![Customer Segmentation](assets/Customer-Segmentation.png)
-![Churn Prediction](assets/Churn_prediction.png), ![Churn Predictors](assets/Churn_predictor.png)
+![Churn Prediction](assets/churn_driver.png), ![Churn Predictors](assets/roc.png)
 
 ---
 
