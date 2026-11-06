@@ -36,7 +36,21 @@ I'm deeply detail-oriented and take pride in getting things right, not just gett
 
 - Improved trade signal accuracy by **20%** via backtesting a Python-based strategy combining RSI and Bollinger Bands for trend reversal detection
 - Conducted market research across macroeconomics, equities, fixed income, and commodities to identify trading opportunities
+---
 
+## Research
+
+### Undergraduate Research Assistant · BDA Lab, University of South Florida
+*Jul 2026 - Present · Tampa, FL*
+
+- Engineered a reproducible R pipeline turning **11 tables** of the 2024 NEMSIS national EMS database into a **500K+ record** analysis dataset, screening **30+ variables** for research fit
+- Decoded **90%+** of clinical codes by mapping ICD-10-CM, RxNorm and SNOMED CT releases in R, powering the lab's original study of age-related differences in EMS demand
+
+### Undergraduate Research Assistant · Dr. Cheng's Lab, University of South Florida
+*Oct 2026 - Present · Tampa, FL*
+
+- Standardized **1,566 drug names** across **61K+ case mentions** with **94.5% multi-source consensus** by automating RxNorm and PubChem PUG REST API lookups in R
+- Built an R safety-signal detection framework scoring every CBD drug–reaction pair with **5 pharmacovigilance methods** (IC, ROR, PRR, lift, Bayesian EBGM)
 ---
 
 ## Projects
