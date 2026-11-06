@@ -62,7 +62,7 @@ End-to-end churn analytics pipeline containerized via Docker with SQL ingestion,
 ![Market Overview](assets/Market-overview.png)
 ![Brand Positioning](assets/Brand-Positioning.png), ![Brand Positioning](assets/Brand-Positioning-2.png), ![Brand Positioning](assets/Brand-Positioning-3.png)
 ![Customer Segmentation](assets/Customer-Segmentation-2.png), ![Customer Segmentation](assets/Customer-Segmentation.png)
-![Churn Prediction](assets/churn_driver.png), ![Churn Predictors](assets/roc.png)
+![Churn Prediction](assets/churn_driver.png), ![Churn Predictors](assets/ROC.png)
 
 ---
 
